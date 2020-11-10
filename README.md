@@ -1,4 +1,4 @@
-# Walks obeying two-step rules on the square lattice: full, half and quarter planes
+## Walks obeying two-step rules on the square lattice: full, half and quarter planes
 Here is some code associated with the paper on two-step paths in the square lattice, preprint here https://arxiv.org/abs/2010.06955.
 
 - `computing_the_models.ipynb` is an interactive Jupyter Notebook using the Sage engine. It computes all the connected and aperiodic models in the full, half and quarter planes, and applies the relevant symmetries to determine all the non-isomorphic models. Its ultimate output is the three files `full_plane_models.txt`, `half_plane_models.txt`, and `quarter_plane_models.txt`, which are also included in this repository.
